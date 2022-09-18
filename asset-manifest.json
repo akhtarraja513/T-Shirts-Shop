@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/T-Shirts-Shop/static/css/main.c7693ea8.css",
+    "main.js": "/T-Shirts-Shop/static/js/main.a1f8bfce.js",
+    "index.html": "/T-Shirts-Shop/index.html",
+    "main.c7693ea8.css.map": "/T-Shirts-Shop/static/css/main.c7693ea8.css.map",
+    "main.a1f8bfce.js.map": "/T-Shirts-Shop/static/js/main.a1f8bfce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7693ea8.css",
+    "static/js/main.a1f8bfce.js"
+  ]
+}
